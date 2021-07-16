@@ -1,0 +1,18 @@
+{
+  "name": "request_saral_api_using_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calling_api.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.7",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
